@@ -47,4 +47,4 @@ For more in-depth guidance and additional resources, please visit our `Resources
 > #### We're thrilled to welcome you to our community and eagerly anticipate your valuable contributions!
 
 ## Conclusion
-Let's create sustainable machine learning models for medical applications together.
+Let's create sustainable machine learning models for medical applications together. Let's go!
